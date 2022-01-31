@@ -3,9 +3,9 @@
         "id": "1",
         "name": "Isaac Boakye-Manu",
         "start_date": "31-01-2022",
-        "start_time": "13:00",
+        "start_time": "01:00PM",
         "end_date": "31-01-2022",
-        "end_time": "14:00",
+        "end_time": "02:00PM",
         "room_location": "Sonidum House",
         "room_name": "MR-12"
     },
@@ -13,9 +13,9 @@
         "id": "2",
         "name": "Priscilla Mawuena Bonsu",
         "start_date": "31-01-2022",
-        "start_time": "13:00",
+        "start_time": "01:00PM",
         "end_date": "31-01-2022",
-        "end_time": "14:00",
+        "end_time": "02:00PM",
         "room_location": "Advantage Place",
         "room_name": "Jollof"
     },
@@ -23,9 +23,9 @@
         "id": "3",
         "name": "Bintu Alhassan",
         "start_date": "03-02-2022",
-        "start_time": "09:00",
+        "start_time": "09:00AM",
         "end_date": "03-02-2022",
-        "end_time": "10:00",
+        "end_time": "10:00AM",
         "room_location": "Advantage Place",
         "room_name": "Banku"
     }

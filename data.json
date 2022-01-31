@@ -10,7 +10,7 @@
         "room_name": "MR-12"
     },
     {
-        "id": "1",
+        "id": "2",
         "name": "Priscilla Mawuena Bonsu",
         "start_date": "2022-01-31",
         "start_time": "13:00",
@@ -18,5 +18,15 @@
         "end_time": "14:00",
         "room_location": "Advantage Place",
         "room_name": "MR-12"
+    },
+    {
+        "id": "3",
+        "name": "Bintu Alhassan",
+        "start_date": "2022-02-03",
+        "start_time": "09:00",
+        "end_date": "2022-02-33",
+        "end_time": "10:00",
+        "room_location": "Advantage Place",
+        "room_name": "Banku"
     }
 ]

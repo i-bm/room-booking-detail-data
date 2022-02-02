@@ -28,5 +28,35 @@
         "end_time": "10:00AM",
         "room_location": "Advantage Place",
         "room_name": "Banku"
+    },
+    {
+        "id": "4",
+        "name": "David Asiamah",
+        "start_date": "05-02-2022",
+        "start_time": "11:00AM",
+        "end_date": "05-02-2022",
+        "end_time": "12:00PM",
+        "room_location": "SONNIDOM HOUSE -1-NORTH",
+        "room_name": "ODC-PERM"
+    },
+    {
+        "id": "5",
+        "name": "Charlotte Esi Abraham",
+        "start_date": "03-02-2022",
+        "start_time": "02:30PM",
+        "end_date": "03-02-2022",
+        "end_time": "02:30PM",
+        "room_location": "SONNIDOM HOUSE -2-SOUTH",
+        "room_name": "ODC-TEMP"
+    },
+    {
+        "id": "6",
+        "name": "Francis Deh",
+        "start_date": "06-02-2022",
+        "start_time": "09:00AM",
+        "end_date": "06-02-2022",
+        "end_time": "10:00AM",
+        "room_location": "SONNIDOM HOUSE -1-NORTH",
+        "room_name": "ODC-PERM"
     }
 ]
